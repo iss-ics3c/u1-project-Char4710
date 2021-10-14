@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+#navdiv{
+    background-color: darkorange;
+    display:flex;
+    justify-content:space-around;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+.nav:hover {
+    color: lime;
+    background-color: purple; 
+}
+.nav {
+    color:yellow;
+    background-color:orange;
+    padding:8px;
+    text-decoration:none;
+}
+#Head1{
+    text-align: center;
+    background-color: darkorange;
+    color:yellow;
+}
+.Q1{
+   width: 100%;
+   background-color: darkorange;
+   color:yellow;
+}
+p {
+   font-family: 'Lobster', cursive; 
+    color: yellow;
+    text-decoration: none;
+    background-color: darkorange
+}
