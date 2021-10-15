@@ -36,3 +36,13 @@ p {
     text-decoration: none;
     background-color: darkorange
 }
+.link{
+    color:yellow;
+    background-color:orange;
+    padding:8px;
+    text-decoration:none;
+}
+.link:hover{
+    color: lime;
+    background-color: purple;
+}
